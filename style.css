@@ -9,19 +9,19 @@ span
 }
 #camera , #result
 {
-  border: 2px dashed black;
+  border: 2px dashed white;
   width: 360px;
   height: 280px; 
 }
-#result_emotion_name ,#result_emotion_name2  
+#result_gesture_name ,#result_gesture_name2  
 {
-  color: black;
+  color: white;
 }
-.emotion_name
+.gesture_name
 {
   font-size: 40px;
 }
-.emoji
+.gestures
 {
   font-size:48px;
 }
